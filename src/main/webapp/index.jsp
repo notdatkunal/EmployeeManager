@@ -54,6 +54,7 @@ margin :0 auto;
 
 </head>
 <body>
+<h1>Employee Manager</h1>
 
 	<form action="save.jsp" >
 	<h2>Employee entry form</h2>
@@ -106,8 +107,6 @@ margin :0 auto;
 	<input type="text" placeholder="enter your department number" name="dept">
 	<br>
 	<button type="submit">submit</button>
-	
-	
 	</form>
 </body>
 </html>
